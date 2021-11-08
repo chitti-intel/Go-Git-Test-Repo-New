@@ -1,1 +1,9 @@
-IyBNaWNyb3NvZnQgT3BlbiBTb3VyY2UgQ29kZSBvZiBDb25kdWN0DQoNClRoaXMgcHJvamVjdCBoYXMgYWRvcHRlZCB0aGUgW01pY3Jvc29mdCBPcGVuIFNvdXJjZSBDb2RlIG9mIENvbmR1Y3RdKGh0dHBzOi8vb3BlbnNvdXJjZS5taWNyb3NvZnQuY29tL2NvZGVvZmNvbmR1Y3QvKS4NCg0KUmVzb3VyY2VzOg0KDQotIFtNaWNyb3NvZnQgT3BlbiBTb3VyY2UgQ29kZSBvZiBDb25kdWN0XShodHRwczovL29wZW5zb3VyY2UubWljcm9zb2Z0LmNvbS9jb2Rlb2Zjb25kdWN0LykNCi0gW01pY3Jvc29mdCBDb2RlIG9mIENvbmR1Y3QgRkFRXShodHRwczovL29wZW5zb3VyY2UubWljcm9zb2Z0LmNvbS9jb2Rlb2Zjb25kdWN0L2ZhcS8pDQotIENvbnRhY3QgW29wZW5jb2RlQG1pY3Jvc29mdC5jb21dKG1haWx0bzpvcGVuY29kZUBtaWNyb3NvZnQuY29tKSB3aXRoIHF1ZXN0aW9ucyBvciBjb25jZXJucw0K
+# Microsoft Open Source Code of Conduct
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+
+Resources:
+
+- [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/)
+- [Microsoft Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
+- Contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with questions or concerns

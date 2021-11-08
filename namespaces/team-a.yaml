@@ -1,1 +1,6 @@
-YXBpVmVyc2lvbjogdjEKa2luZDogTmFtZXNwYWNlCm1ldGFkYXRhOgogIGxhYmVsczoKICAgIG5hbWU6IHRlYW0tYQogIG5hbWU6IHRlYW0tYQ==
+apiVersion: v1
+kind: Namespace
+metadata:
+  labels:
+    name: team-a
+  name: team-a

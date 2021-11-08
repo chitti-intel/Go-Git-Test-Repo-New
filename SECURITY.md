@@ -1,1 +1,41 @@
-PCEtLSBCRUdJTiBNSUNST1NPRlQgU0VDVVJJVFkuTUQgVjAuMC40IEJMT0NLIC0tPg0KDQojIyBTZWN1cml0eQ0KDQpNaWNyb3NvZnQgdGFrZXMgdGhlIHNlY3VyaXR5IG9mIG91ciBzb2Z0d2FyZSBwcm9kdWN0cyBhbmQgc2VydmljZXMgc2VyaW91c2x5LCB3aGljaCBpbmNsdWRlcyBhbGwgc291cmNlIGNvZGUgcmVwb3NpdG9yaWVzIG1hbmFnZWQgdGhyb3VnaCBvdXIgR2l0SHViIG9yZ2FuaXphdGlvbnMsIHdoaWNoIGluY2x1ZGUgW01pY3Jvc29mdF0oaHR0cHM6Ly9naXRodWIuY29tL01pY3Jvc29mdCksIFtBenVyZV0oaHR0cHM6Ly9naXRodWIuY29tL0F6dXJlKSwgW0RvdE5ldF0oaHR0cHM6Ly9naXRodWIuY29tL2RvdG5ldCksIFtBc3BOZXRdKGh0dHBzOi8vZ2l0aHViLmNvbS9hc3BuZXQpLCBbWGFtYXJpbl0oaHR0cHM6Ly9naXRodWIuY29tL3hhbWFyaW4pLCBhbmQgW291ciBHaXRIdWIgb3JnYW5pemF0aW9uc10oaHR0cHM6Ly9vcGVuc291cmNlLm1pY3Jvc29mdC5jb20vKS4NCg0KSWYgeW91IGJlbGlldmUgeW91IGhhdmUgZm91bmQgYSBzZWN1cml0eSB2dWxuZXJhYmlsaXR5IGluIGFueSBNaWNyb3NvZnQtb3duZWQgcmVwb3NpdG9yeSB0aGF0IG1lZXRzIE1pY3Jvc29mdCdzIFtNaWNyb3NvZnQncyBkZWZpbml0aW9uIG9mIGEgc2VjdXJpdHkgdnVsbmVyYWJpbGl0eV0oaHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvcHJldmlvdXMtdmVyc2lvbnMvdG4tYXJjaGl2ZS9jYzc1MTM4Myh2PXRlY2huZXQuMTApKSBvZiBhIHNlY3VyaXR5IHZ1bG5lcmFiaWxpdHksIHBsZWFzZSByZXBvcnQgaXQgdG8gdXMgYXMgZGVzY3JpYmVkIGJlbG93Lg0KDQojIyBSZXBvcnRpbmcgU2VjdXJpdHkgSXNzdWVzDQoNCioqUGxlYXNlIGRvIG5vdCByZXBvcnQgc2VjdXJpdHkgdnVsbmVyYWJpbGl0aWVzIHRocm91Z2ggcHVibGljIEdpdEh1YiBpc3N1ZXMuKioNCg0KSW5zdGVhZCwgcGxlYXNlIHJlcG9ydCB0aGVtIHRvIHRoZSBNaWNyb3NvZnQgU2VjdXJpdHkgUmVzcG9uc2UgQ2VudGVyIChNU1JDKSBhdCBbaHR0cHM6Ly9tc3JjLm1pY3Jvc29mdC5jb20vY3JlYXRlLXJlcG9ydF0oaHR0cHM6Ly9tc3JjLm1pY3Jvc29mdC5jb20vY3JlYXRlLXJlcG9ydCkuDQoNCklmIHlvdSBwcmVmZXIgdG8gc3VibWl0IHdpdGhvdXQgbG9nZ2luZyBpbiwgc2VuZCBlbWFpbCB0byBbc2VjdXJlQG1pY3Jvc29mdC5jb21dKG1haWx0bzpzZWN1cmVAbWljcm9zb2Z0LmNvbSkuICBJZiBwb3NzaWJsZSwgZW5jcnlwdCB5b3VyIG1lc3NhZ2Ugd2l0aCBvdXIgUEdQIGtleTsgcGxlYXNlIGRvd25sb2FkIGl0IGZyb20gdGhlIFtNaWNyb3NvZnQgU2VjdXJpdHkgUmVzcG9uc2UgQ2VudGVyIFBHUCBLZXkgcGFnZV0oaHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9tc3JjL3BncC1rZXktbXNyYykuDQoNCllvdSBzaG91bGQgcmVjZWl2ZSBhIHJlc3BvbnNlIHdpdGhpbiAyNCBob3Vycy4gSWYgZm9yIHNvbWUgcmVhc29uIHlvdSBkbyBub3QsIHBsZWFzZSBmb2xsb3cgdXAgdmlhIGVtYWlsIHRvIGVuc3VyZSB3ZSByZWNlaXZlZCB5b3VyIG9yaWdpbmFsIG1lc3NhZ2UuIEFkZGl0aW9uYWwgaW5mb3JtYXRpb24gY2FuIGJlIGZvdW5kIGF0IFttaWNyb3NvZnQuY29tL21zcmNdKGh0dHBzOi8vd3d3Lm1pY3Jvc29mdC5jb20vbXNyYykuIA0KDQpQbGVhc2UgaW5jbHVkZSB0aGUgcmVxdWVzdGVkIGluZm9ybWF0aW9uIGxpc3RlZCBiZWxvdyAoYXMgbXVjaCBhcyB5b3UgY2FuIHByb3ZpZGUpIHRvIGhlbHAgdXMgYmV0dGVyIHVuZGVyc3RhbmQgdGhlIG5hdHVyZSBhbmQgc2NvcGUgb2YgdGhlIHBvc3NpYmxlIGlzc3VlOg0KDQogICogVHlwZSBvZiBpc3N1ZSAoZS5nLiBidWZmZXIgb3ZlcmZsb3csIFNRTCBpbmplY3Rpb24sIGNyb3NzLXNpdGUgc2NyaXB0aW5nLCBldGMuKQ0KICAqIEZ1bGwgcGF0aHMgb2Ygc291cmNlIGZpbGUocykgcmVsYXRlZCB0byB0aGUgbWFuaWZlc3RhdGlvbiBvZiB0aGUgaXNzdWUNCiAgKiBUaGUgbG9jYXRpb24gb2YgdGhlIGFmZmVjdGVkIHNvdXJjZSBjb2RlICh0YWcvYnJhbmNoL2NvbW1pdCBvciBkaXJlY3QgVVJMKQ0KICAqIEFueSBzcGVjaWFsIGNvbmZpZ3VyYXRpb24gcmVxdWlyZWQgdG8gcmVwcm9kdWNlIHRoZSBpc3N1ZQ0KICAqIFN0ZXAtYnktc3RlcCBpbnN0cnVjdGlvbnMgdG8gcmVwcm9kdWNlIHRoZSBpc3N1ZQ0KICAqIFByb29mLW9mLWNvbmNlcHQgb3IgZXhwbG9pdCBjb2RlIChpZiBwb3NzaWJsZSkNCiAgKiBJbXBhY3Qgb2YgdGhlIGlzc3VlLCBpbmNsdWRpbmcgaG93IGFuIGF0dGFja2VyIG1pZ2h0IGV4cGxvaXQgdGhlIGlzc3VlDQoNClRoaXMgaW5mb3JtYXRpb24gd2lsbCBoZWxwIHVzIHRyaWFnZSB5b3VyIHJlcG9ydCBtb3JlIHF1aWNrbHkuDQoNCklmIHlvdSBhcmUgcmVwb3J0aW5nIGZvciBhIGJ1ZyBib3VudHksIG1vcmUgY29tcGxldGUgcmVwb3J0cyBjYW4gY29udHJpYnV0ZSB0byBhIGhpZ2hlciBib3VudHkgYXdhcmQuIFBsZWFzZSB2aXNpdCBvdXIgW01pY3Jvc29mdCBCdWcgQm91bnR5IFByb2dyYW1dKGh0dHBzOi8vbWljcm9zb2Z0LmNvbS9tc3JjL2JvdW50eSkgcGFnZSBmb3IgbW9yZSBkZXRhaWxzIGFib3V0IG91ciBhY3RpdmUgcHJvZ3JhbXMuDQoNCiMjIFByZWZlcnJlZCBMYW5ndWFnZXMNCg0KV2UgcHJlZmVyIGFsbCBjb21tdW5pY2F0aW9ucyB0byBiZSBpbiBFbmdsaXNoLg0KDQojIyBQb2xpY3kNCg0KTWljcm9zb2Z0IGZvbGxvd3MgdGhlIHByaW5jaXBsZSBvZiBbQ29vcmRpbmF0ZWQgVnVsbmVyYWJpbGl0eSBEaXNjbG9zdXJlXShodHRwczovL3d3dy5taWNyb3NvZnQuY29tL2VuLXVzL21zcmMvY3ZkKS4NCg0KPCEtLSBFTkQgTUlDUk9TT0ZUIFNFQ1VSSVRZLk1EIEJMT0NLIC0tPg==
+<!-- BEGIN MICROSOFT SECURITY.MD V0.0.4 BLOCK -->
+
+## Security
+
+Microsoft takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [Microsoft](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin), and [our GitHub organizations](https://opensource.microsoft.com/).
+
+If you believe you have found a security vulnerability in any Microsoft-owned repository that meets Microsoft's [Microsoft's definition of a security vulnerability](https://docs.microsoft.com/en-us/previous-versions/tn-archive/cc751383(v=technet.10)) of a security vulnerability, please report it to us as described below.
+
+## Reporting Security Issues
+
+**Please do not report security vulnerabilities through public GitHub issues.**
+
+Instead, please report them to the Microsoft Security Response Center (MSRC) at [https://msrc.microsoft.com/create-report](https://msrc.microsoft.com/create-report).
+
+If you prefer to submit without logging in, send email to [secure@microsoft.com](mailto:secure@microsoft.com).  If possible, encrypt your message with our PGP key; please download it from the [Microsoft Security Response Center PGP Key page](https://www.microsoft.com/en-us/msrc/pgp-key-msrc).
+
+You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message. Additional information can be found at [microsoft.com/msrc](https://www.microsoft.com/msrc). 
+
+Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
+
+  * Type of issue (e.g. buffer overflow, SQL injection, cross-site scripting, etc.)
+  * Full paths of source file(s) related to the manifestation of the issue
+  * The location of the affected source code (tag/branch/commit or direct URL)
+  * Any special configuration required to reproduce the issue
+  * Step-by-step instructions to reproduce the issue
+  * Proof-of-concept or exploit code (if possible)
+  * Impact of the issue, including how an attacker might exploit the issue
+
+This information will help us triage your report more quickly.
+
+If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program](https://microsoft.com/msrc/bounty) page for more details about our active programs.
+
+## Preferred Languages
+
+We prefer all communications to be in English.
+
+## Policy
+
+Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https://www.microsoft.com/en-us/msrc/cvd).
+
+<!-- END MICROSOFT SECURITY.MD BLOCK -->
